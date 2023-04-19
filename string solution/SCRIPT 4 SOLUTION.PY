@@ -1,9 +1,9 @@
-Write a menu driven list which perform following operation
+#Write a menu driven list which perform following operation
 
-1. Create list of string till user choise.
-2. Print string with even character in length.
-3. Replace odd character of string with index no.
-4. Enter start and end value and extract character from the list of string.
+#1. Create list of string till user choise.
+#2. Print string with even character in length.
+#3. Replace odd character of string with index no.
+#4. Enter start and end value and extract character from the list of string.
 
 
 def create_list():
