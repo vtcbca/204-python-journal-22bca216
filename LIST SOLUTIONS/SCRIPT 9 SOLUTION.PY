@@ -1,3 +1,7 @@
+Write a script to create dictionary from list which contain student id , name and percentage
+
+Take student id and name till user choise.
+
 student_list = []
 
 while True:
